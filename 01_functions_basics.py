@@ -17,3 +17,12 @@
 #    Call it with 3 different names
 
 print("\n--- Q1: Simple Function ---")
+
+def greet(name):
+    print("Hello, " + name + "!")
+
+greet("Elena")
+greet("Eric")
+greet("Carl")
+
+# ----------------------------------------------------------
