@@ -26,3 +26,8 @@ greet("Eric")
 greet("Carl")
 
 # ----------------------------------------------------------
+
+# Q2: Function with return value - add two numbers
+#    Create function add(a, b) that returns sum
+#    Store result in variable and print
+#    Also print what happens if you don't use return
