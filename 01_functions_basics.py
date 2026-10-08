@@ -16,3 +16,4 @@
 #    Create function greet(name) that prints "Hello, {name}!"
 #    Call it with 3 different names
 
+print("\n--- Q1: Simple Function ---")
