@@ -11,3 +11,8 @@
 # ==========================================================
 # PART A:   Basic Functions & Return Values
 # ==========================================================
+
+# Q1: Simple function - greet user
+#    Create function greet(name) that prints "Hello, {name}!"
+#    Call it with 3 different names
+
