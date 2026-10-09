@@ -31,3 +31,10 @@ greet("Carl")
 #    Create function add(a, b) that returns sum
 #    Store result in variable and print
 #    Also print what happens if you don't use return
+
+def add(a, b) :
+    return a + b
+
+def add_no_return(a, b) :
+    result = a + b
+    
