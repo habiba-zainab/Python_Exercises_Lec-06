@@ -144,3 +144,10 @@ squares = list(map(lambda x: x * x, numbers))
 doubled = list(map(lambda x: x * 2, numbers))
 evens = list(filter(lambda x: x % 2 == 0, numbers))
 greater_than_5 = list(filter(lambda x: x > 5, numbers))
+
+print("\nmap() - Squares: ", squares)
+print("map() - Doubled: ", doubled)
+print("\nfilter() - Evens: ", evens)
+print("filter() - Greater than 5: ", greater_than_5)
+
+# ----------------------------------------------------------
