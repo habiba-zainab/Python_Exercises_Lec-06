@@ -169,3 +169,6 @@ print("Numbers: ", nums_list)
 
 product = reduce(lambda x, y: x * y, nums_list)
 maximum_val = reduce(lambda x, y: x if x > y else y, nums_list)
+
+words = ['Hello', 'World', 'Python']
+concatenated = reduce(lambda x, y: x + ' ' + y, words)
