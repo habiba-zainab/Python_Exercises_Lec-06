@@ -45,3 +45,6 @@ print("\n--- Q2: User-Defined Function Types ---")
 
 def greet_basic() :
     print("Hello from function!")
+
+def greet_name(name) :
+    print("Hello, " + name + "!")
