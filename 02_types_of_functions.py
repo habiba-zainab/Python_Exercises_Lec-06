@@ -111,3 +111,7 @@ print("\n--- Q4: Lambda with sorted() ---")
 
 students = [('Alice', 85), ('Bob', 92), ('Charlie', 78)]
 print("Original: ", students)
+
+by_name = sorted(students, key=lambda x: x[0])
+by_marks_asc = sorted(students, key=lambda x: x[1])
+by_marks_desc = sorted(students, key=lambda x: x[1], reverse=True)
