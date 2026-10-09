@@ -63,3 +63,8 @@ greet_name("Carl")
 
 print("\n3. No params, with return: ")
 print("Current year: ", get_current_year())
+
+print("\n4. With params and return: ")
+print("5 + 3 = ", add_nums(5, 3))
+
+# ----------------------------------------------------------
