@@ -136,3 +136,6 @@ print(by_marks_desc)
 #    - Get numbers > 5
 
 print("\n--- Q5: Lambda with map() & filter() ---")
+
+numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+print("Numbers: ", numbers)
