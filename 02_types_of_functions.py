@@ -33,3 +33,10 @@ print("sorted(): ", sorted(numbers))
 print("type(): ", type(numbers))
 
 # ----------------------------------------------------------
+
+# Q2: User-defined function types
+#    Create examples of:
+#    - Function with no parameters, no return
+#    - Function with parameters, no return
+#    - Function with no parameters, with return
+#    - Function with parameters and return
