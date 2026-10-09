@@ -115,3 +115,12 @@ print("Original: ", students)
 by_name = sorted(students, key=lambda x: x[0])
 by_marks_asc = sorted(students, key=lambda x: x[1])
 by_marks_desc = sorted(students, key=lambda x: x[1], reverse=True)
+
+print("\nSorted by name: ")
+print(by_name)
+print("\nSorted by marks (ascending): ")
+print(by_marks_asc)
+print("\nSorted by marks (descending): ")
+print(by_marks_desc)
+
+# ----------------------------------------------------------
