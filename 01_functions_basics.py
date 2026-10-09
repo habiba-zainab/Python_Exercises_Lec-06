@@ -60,3 +60,9 @@ print("\n--- Q3: Multiple Parameters ---")
 
 def calculate_area(length, width) :
     return length * width
+
+print("Rectangle 5 x 3: Area =", calculate_area(5, 3))
+print("Rectangle 10 x 7: Area =", calculate_area(10, 7))
+print("Rectangle 4.5 x 2.5: Area =", calculate_area(4.5, 2.5))
+
+# ----------------------------------------------------------
