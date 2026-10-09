@@ -143,4 +143,7 @@ def local_scope_test() :
 def global_scope_test() :
     global x
     x = 999
-    
+
+print("Global x before: ", x)
+local_scope_test()
+print("Global x after function: ", x, "(unchanged)")
