@@ -153,3 +153,9 @@ global_scope_test()
 print("Global x after modification: ", x)
 
 # ----------------------------------------------------------
+
+# Q7: Function calling another function
+#    Create:
+#    - square(n) returns n*n
+#    - cube(n) returns n*n*n
+#    - power_table(n) calls square and cube, prints table
