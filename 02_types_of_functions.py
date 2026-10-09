@@ -11,3 +11,8 @@
 # ==========================================================
 # PART A:   Built-in vs User-defined Functions
 # ==========================================================
+
+# Q1: Built-in functions review
+#    Demonstrate these built-in functions with examples:
+#    len(), max(), min(), sum(), abs(), round(), sorted(), type()
+#    Use a list of numbers for demonstration
