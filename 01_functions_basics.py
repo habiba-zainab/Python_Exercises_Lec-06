@@ -124,3 +124,10 @@ print("is_even(7): ", is_even(7))
 print("is_even(0): ", is_even(0))
 
 # ----------------------------------------------------------
+
+# Q6: Local vs Global variables
+#    Demonstrate variable scope:
+#    - Create global variable x = 10
+#    - Create function that has local x = 20
+#    - Show that global x is unchanged
+#    - Use global keyword to modify global x
