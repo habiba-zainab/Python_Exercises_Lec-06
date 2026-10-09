@@ -80,3 +80,5 @@ print("5 + 3 = ", add_nums(5, 3))
 #    - Check if even
 #    - Get absolute value
 #    Call each and print results
+
+print("\n--- Q3: Lambda Basics ---")
