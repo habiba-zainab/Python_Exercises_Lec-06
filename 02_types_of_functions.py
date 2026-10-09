@@ -55,3 +55,5 @@ def get_current_year() :
 def add_nums(a, b) :
     return a + b
 
+print("1. No params, no return: ")
+greet_basic()
