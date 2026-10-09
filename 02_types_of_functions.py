@@ -139,3 +139,8 @@ print("\n--- Q5: Lambda with map() & filter() ---")
 
 numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 print("Numbers: ", numbers)
+
+squares = list(map(lambda x: x * x, numbers))
+doubled = list(map(lambda x: x * 2, numbers))
+evens = list(filter(lambda x: x % 2 == 0, numbers))
+greater_than_5 = list(filter(lambda x: x > 5, numbers))
