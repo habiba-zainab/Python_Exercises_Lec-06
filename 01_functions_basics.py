@@ -66,3 +66,8 @@ print("Rectangle 10 x 7: Area =", calculate_area(10, 7))
 print("Rectangle 4.5 x 2.5: Area =", calculate_area(4.5, 2.5))
 
 # ----------------------------------------------------------
+
+# Q4: Function returning multiple values
+#    Create function get_stats(numbers) that returns
+#     min, max, sum, average as tuple
+#    Unpack and print results
