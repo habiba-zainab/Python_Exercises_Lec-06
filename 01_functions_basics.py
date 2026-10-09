@@ -162,3 +162,8 @@ print("Global x after modification: ", x)
 
 print("\n--- Q7: Function Chaining ---")
 
+def square(n) :
+    return n * n
+
+def cube(n) :
+    return n * n * n
