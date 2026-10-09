@@ -57,3 +57,6 @@ print("Without return: ", no_return_val)
 #    Call with different dimensions
 
 print("\n--- Q3: Multiple Parameters ---")
+
+def calculate_area(length, width) :
+    return length * width
