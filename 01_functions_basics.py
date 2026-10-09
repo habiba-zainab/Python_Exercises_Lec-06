@@ -192,3 +192,5 @@ power_table(5)
 #    - Checks if both are numbers
 #    - Checks if b is not zero
 #    - Returns result or error message
+
+print("\n--- Q8: Type Checking ---")
