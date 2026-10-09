@@ -172,3 +172,10 @@ maximum_val = reduce(lambda x, y: x if x > y else y, nums_list)
 
 words = ['Hello', 'World', 'Python']
 concatenated = reduce(lambda x, y: x + ' ' + y, words)
+
+print("Product: ", product)
+print("Maximum: ", maximum_val)
+print("\nWords: ", words)
+print("Concatenated: ", "'" + concatenated + "'")
+
+# ----------------------------------------------------------
