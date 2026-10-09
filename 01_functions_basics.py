@@ -32,6 +32,8 @@ greet("Carl")
 #    Store result in variable and print
 #    Also print what happens if you don't use return
 
+print("\n--- Q2: Return Value ---")
+
 def add(a, b) :
     return a + b
 
