@@ -48,3 +48,6 @@ def greet_basic() :
 
 def greet_name(name) :
     print("Hello, " + name + "!")
+
+def get_current_year() :
+    return 2024
