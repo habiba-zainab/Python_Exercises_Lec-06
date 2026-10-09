@@ -87,3 +87,12 @@ square = lambda x: x * x
 add = lambda x, y: x + y
 is_even = lambda x: x % 2 == 0
 absolute = lambda x: abs(x)
+
+print("Lambda Functions: ")
+print("square(5): ", square(5))
+print("add(3, 4): ", add(3, 4))
+print("is_even(6): ", is_even(6))
+print("is_even(7): ", is_even(7))
+print("absolute(-10): ", absolute(-10))
+
+# ----------------------------------------------------------
