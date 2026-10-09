@@ -57,3 +57,6 @@ def add_nums(a, b) :
 
 print("1. No params, no return: ")
 greet_basic()
+
+print("\n2. With params, no return: ")
+greet_name("Carl")
