@@ -131,3 +131,6 @@ print("is_even(0): ", is_even(0))
 #    - Create function that has local x = 20
 #    - Show that global x is unchanged
 #    - Use global keyword to modify global x
+
+print("\n--- Q6: Variable Scope ---")
+
