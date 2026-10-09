@@ -44,3 +44,7 @@ sum2 = add(10, 20)
 print("add(5, 3) =", sum1)
 print("add(10, 20) =", sum2)
 
+no_return_val = add_no_return(10, 20)
+print("Without return: ", no_return_val)
+
+# ----------------------------------------------------------
