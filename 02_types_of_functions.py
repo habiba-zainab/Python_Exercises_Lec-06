@@ -213,3 +213,8 @@ def calculator(operation) :
         return multiply
     elif operation == "divide" :
         return divide
+
+add_func = calculator("add")
+sub_func = calculator("subtract")
+mult_func = calculator("multiply")
+div_func = calculator("divide")
