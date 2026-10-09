@@ -51,3 +51,7 @@ def greet_name(name) :
 
 def get_current_year() :
     return 2024
+
+def add_nums(a, b) :
+    return a + b
+
