@@ -159,3 +159,6 @@ print("Global x after modification: ", x)
 #    - square(n) returns n*n
 #    - cube(n) returns n*n*n
 #    - power_table(n) calls square and cube, prints table
+
+print("\n--- Q7: Function Chaining ---")
+
