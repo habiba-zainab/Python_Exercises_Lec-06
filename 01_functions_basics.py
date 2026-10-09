@@ -118,3 +118,9 @@ def is_even(number) :
 
 print("Function Documentation: ")
 print(is_even.__doc__)
+
+print("is_even(4): ", is_even(4))
+print("is_even(7): ", is_even(7))
+print("is_even(0): ", is_even(0))
+
+# ----------------------------------------------------------
