@@ -60,3 +60,6 @@ greet_basic()
 
 print("\n2. With params, no return: ")
 greet_name("Carl")
+
+print("\n3. No params, with return: ")
+print("Current year: ", get_current_year())
