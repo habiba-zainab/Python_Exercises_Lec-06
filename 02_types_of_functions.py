@@ -218,3 +218,11 @@ add_func = calculator("add")
 sub_func = calculator("subtract")
 mult_func = calculator("multiply")
 div_func = calculator("divide")
+
+print("Calculator: ")
+print("add(10, 5): ", add_func(10, 5))
+print("subtract(10, 5): ", sub_func(10, 5))
+print("multiply(10, 5): ", mult_func(10, 5))
+print("divide(10, 5): ", div_func(10, 5))
+
+# ----------------------------------------------------------
