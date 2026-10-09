@@ -167,3 +167,8 @@ def square(n) :
 
 def cube(n) :
     return n * n * n
+
+def power_table(limit) :
+    print("Power Table for 1 to " + str(limit) + ":")
+    print("Number | Square | Cube")
+    print("-----------------------")
