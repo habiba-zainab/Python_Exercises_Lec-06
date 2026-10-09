@@ -55,3 +55,5 @@ print("Without return: ", no_return_val)
 #    Create function calculate_area(length, width)
 #    Returns area of rectangle
 #    Call with different dimensions
+
+print("\n--- Q3: Multiple Parameters ---")
