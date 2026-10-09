@@ -40,3 +40,5 @@ print("type(): ", type(numbers))
 #    - Function with parameters, no return
 #    - Function with no parameters, with return
 #    - Function with parameters and return
+
+print("\n--- Q2: User-Defined Function Types ---")
