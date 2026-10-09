@@ -124,3 +124,13 @@ print("\nSorted by marks (descending): ")
 print(by_marks_desc)
 
 # ----------------------------------------------------------
+
+# Q5: Lambda with map() and filter()
+#    Given: 
+#            numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+#    Use map() to:
+#    - Square each number
+#    - Double each number
+#    Use filter() to:
+#    - Get even numbers
+#    - Get numbers > 5
