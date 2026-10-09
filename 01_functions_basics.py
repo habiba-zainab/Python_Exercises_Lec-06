@@ -204,3 +204,10 @@ def safe_divide(a, b) :
         return "Error: Cannot divide by zero"
     
     return a / b
+
+print("safe_divide(10, 2): ", safe_divide(10, 2))
+print("safe_divide(10, 0): ", safe_divide(10, 0))
+print("safe_divide('10', 2): ", safe_divide("10", 2))
+print("safe_divide(10, 3): ", safe_divide(10, 3))
+
+# ----------------------------------------------------------
