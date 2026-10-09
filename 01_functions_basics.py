@@ -37,4 +37,10 @@ def add(a, b) :
 
 def add_no_return(a, b) :
     result = a + b
-    
+
+sum1 = add(5, 3)
+sum2 = add(10, 20)
+
+print("add(5, 3) =", sum1)
+print("add(10, 20) =", sum2)
+
