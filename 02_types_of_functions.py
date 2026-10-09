@@ -159,3 +159,5 @@ print("filter() - Greater than 5: ", greater_than_5)
 #    - Find product of all numbers
 #    - Find maximum number
 #    - Concatenate list of strings
+
+print("\n--- Q6: Lambda with reduce() ---")
