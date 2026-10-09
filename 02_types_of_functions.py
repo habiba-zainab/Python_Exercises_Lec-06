@@ -192,3 +192,5 @@ print("Concatenated: ", "'" + concatenated + "'")
 #    - inner divide(a, b)
 #    Outer function takes operation name and returns
 #          inner function
+
+print("\n--- Q7: Nested Functions ---")
