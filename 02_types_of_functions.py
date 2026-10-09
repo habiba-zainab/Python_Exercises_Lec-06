@@ -183,3 +183,12 @@ print("Concatenated: ", "'" + concatenated + "'")
 # =============================================================
 # PART C: Nested Functions, Closures, Higher-Order Architecture
 # =============================================================
+
+# Q7: Nested functions
+#    Create outer function calculator() that contains:
+#    - inner add(a, b)
+#    - inner subtract(a, b)
+#    - inner multiply(a, b)
+#    - inner divide(a, b)
+#    Outer function takes operation name and returns
+#          inner function
