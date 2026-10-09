@@ -18,3 +18,7 @@
 #    Use a list of numbers for demonstration
 
 print("\n--- Q1: Built-in Functions ---")
+
+numbers = [45, 12, 78, 23, 67, 89, 34]
+print("Numbers: ", numbers)
+print()
