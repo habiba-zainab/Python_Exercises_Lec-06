@@ -42,3 +42,6 @@ print("type(): ", type(numbers))
 #    - Function with parameters and return
 
 print("\n--- Q2: User-Defined Function Types ---")
+
+def greet_basic() :
+    print("Hello from function!")
