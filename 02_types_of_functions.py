@@ -72,3 +72,11 @@ print("5 + 3 = ", add_nums(5, 3))
 # ==========================================================
 # PART B: Lambda Functions & Functional Programming Tools
 # ==========================================================
+
+# Q3: Lambda function basics
+#    Create lambda functions for:
+#    - Square of a number
+#    - Add two numbers
+#    - Check if even
+#    - Get absolute value
+#    Call each and print results
