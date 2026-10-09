@@ -134,3 +134,13 @@ print("is_even(0): ", is_even(0))
 
 print("\n--- Q6: Variable Scope ---")
 
+x = 10
+
+def local_scope_test() :
+    x = 20
+    print("Local x inside function: ", x)
+
+def global_scope_test() :
+    global x
+    x = 999
+    
