@@ -74,3 +74,9 @@ print("Rectangle 4.5 x 2.5: Area =", calculate_area(4.5, 2.5))
 
 print("\n--- Q4: Multiple Return Values ---")
 
+def get_stats(numbers) :
+    minimum = min(numbers)
+    maximum = max(numbers)
+    total = sum(numbers)
+    average = total / len(numbers)
+    return minimum, maximum, total, average
