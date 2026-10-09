@@ -96,3 +96,13 @@ print("is_even(7): ", is_even(7))
 print("absolute(-10): ", absolute(-10))
 
 # ----------------------------------------------------------
+
+# Q4: Lambda with sorted()
+#    Given: 
+#           students = [('Alice', 85), ('Bob', 92),
+#                     ('Charlie', 78)]
+#    Sort by:
+#    - Name (alphabetically)
+#    - Marks (ascending)
+#    - Marks (descending)
+#    Use lambda as key
