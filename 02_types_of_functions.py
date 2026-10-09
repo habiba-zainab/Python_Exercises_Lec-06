@@ -194,3 +194,14 @@ print("Concatenated: ", "'" + concatenated + "'")
 #          inner function
 
 print("\n--- Q7: Nested Functions ---")
+
+def calculator(operation) :
+    def add(a, b) :
+        return a + b
+    def subtract(a, b) :
+        return a - b
+    def multiply(a, b) :
+        return a * b
+    def divide(a, b) :
+        return a / b if b != 0 else "Error: Division by Zero"
+    
