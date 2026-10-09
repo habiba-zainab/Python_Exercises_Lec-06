@@ -186,3 +186,9 @@ power_table(5)
 # ==========================================================
 # PART C:   Type Safety & Complex Parameters
 # ==========================================================
+
+# Q8: Type checking in functions
+#    Create function safe_divide(a, b) that:
+#    - Checks if both are numbers
+#    - Checks if b is not zero
+#    - Returns result or error message
