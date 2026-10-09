@@ -16,3 +16,5 @@
 #    Demonstrate these built-in functions with examples:
 #    len(), max(), min(), sum(), abs(), round(), sorted(), type()
 #    Use a list of numbers for demonstration
+
+print("\n--- Q1: Built-in Functions ---")
