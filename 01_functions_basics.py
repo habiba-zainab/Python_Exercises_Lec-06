@@ -194,3 +194,10 @@ power_table(5)
 #    - Returns result or error message
 
 print("\n--- Q8: Type Checking ---")
+
+def safe_divide(a, b) :
+
+    if type(a) not in (int, float) or type(b) not in (int, float) :
+        return "Error: Both arguments must be numbers"
+
+    
