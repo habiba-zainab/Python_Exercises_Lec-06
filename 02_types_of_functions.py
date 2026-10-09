@@ -106,3 +106,5 @@ print("absolute(-10): ", absolute(-10))
 #    - Marks (ascending)
 #    - Marks (descending)
 #    Use lambda as key
+
+print("\n--- Q4: Lambda with sorted() ---")
