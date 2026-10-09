@@ -101,3 +101,5 @@ print("Average: ", avg_val)
 #    Docstring should explain: purpose, parameters, return
 #    Print docstring using __doc__
 #    Test with 5 numbers
+
+print("\n--- Q5: Docstrings ---")
