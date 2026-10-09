@@ -161,3 +161,8 @@ print("filter() - Greater than 5: ", greater_than_5)
 #    - Concatenate list of strings
 
 print("\n--- Q6: Lambda with reduce() ---")
+
+from functools import reduce
+
+nums_list = [1, 2, 3, 4, 5]
+print("Numbers: ", nums_list)
