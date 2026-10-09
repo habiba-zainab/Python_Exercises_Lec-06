@@ -200,4 +200,7 @@ def safe_divide(a, b) :
     if type(a) not in (int, float) or type(b) not in (int, float) :
         return "Error: Both arguments must be numbers"
 
+    if b == 0 :
+        return "Error: Cannot divide by zero"
     
+    return a / b
