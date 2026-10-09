@@ -103,3 +103,15 @@ print("Average: ", avg_val)
 #    Test with 5 numbers
 
 print("\n--- Q5: Docstrings ---")
+
+def is_even(number) :
+    """
+    Checks if a number is even.
+
+    Parameters :
+        number (int) : The number to check
+
+    Returns :
+        bool : True if even, False if odd
+    """
+    return number % 2 == 0
