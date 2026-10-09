@@ -151,3 +151,11 @@ print("\nfilter() - Evens: ", evens)
 print("filter() - Greater than 5: ", greater_than_5)
 
 # ----------------------------------------------------------
+
+# Q6: Lambda with reduce()
+#    Given: 
+#            numbers = [1, 2, 3, 4, 5]
+#    Use reduce() to:
+#    - Find product of all numbers
+#    - Find maximum number
+#    - Concatenate list of strings
