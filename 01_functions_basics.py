@@ -147,3 +147,9 @@ def global_scope_test() :
 print("Global x before: ", x)
 local_scope_test()
 print("Global x after function: ", x, "(unchanged)")
+
+print("\nUsing global keyword: ")
+global_scope_test()
+print("Global x after modification: ", x)
+
+# ----------------------------------------------------------
