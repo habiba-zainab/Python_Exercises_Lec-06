@@ -134,3 +134,5 @@ print(by_marks_desc)
 #    Use filter() to:
 #    - Get even numbers
 #    - Get numbers > 5
+
+print("\n--- Q5: Lambda with map() & filter() ---")
