@@ -115,3 +115,6 @@ def is_even(number) :
         bool : True if even, False if odd
     """
     return number % 2 == 0
+
+print("Function Documentation: ")
+print(is_even.__doc__)
