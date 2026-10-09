@@ -80,3 +80,6 @@ def get_stats(numbers) :
     total = sum(numbers)
     average = total / len(numbers)
     return minimum, maximum, total, average
+
+nums = [12, 45, 23, 67, 34]
+print("Numbers: ", nums)
