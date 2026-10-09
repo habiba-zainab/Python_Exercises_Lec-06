@@ -48,3 +48,8 @@ no_return_val = add_no_return(10, 20)
 print("Without return: ", no_return_val)
 
 # ----------------------------------------------------------
+
+# Q3: Function with multiple parameters
+#    Create function calculate_area(length, width)
+#    Returns area of rectangle
+#    Call with different dimensions
