@@ -83,3 +83,11 @@ def get_stats(numbers) :
 
 nums = [12, 45, 23, 67, 34]
 print("Numbers: ", nums)
+
+min_val, max_val, total_sum, avg_val = get_stats(nums)
+print("Min: ", min_val)
+print("Max: ", max_val)
+print("Sum: ", total_sum)
+print("Average: ", avg_val)
+
+# ----------------------------------------------------------
