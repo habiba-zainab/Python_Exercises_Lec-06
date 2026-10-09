@@ -82,3 +82,8 @@ print("5 + 3 = ", add_nums(5, 3))
 #    Call each and print results
 
 print("\n--- Q3: Lambda Basics ---")
+
+square = lambda x: x * x
+add = lambda x, y: x + y
+is_even = lambda x: x % 2 == 0
+absolute = lambda x: abs(x)
