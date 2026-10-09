@@ -95,3 +95,9 @@ print("Average: ", avg_val)
 # ==========================================================
 # PART B:   Scope, Documentation, & Chaining
 # ==========================================================
+
+# Q5: Function with docstring
+#    Create function is_even(number) with proper docstring
+#    Docstring should explain: purpose, parameters, return
+#    Print docstring using __doc__
+#    Test with 5 numbers
