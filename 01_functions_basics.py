@@ -172,3 +172,13 @@ def power_table(limit) :
     print("Power Table for 1 to " + str(limit) + ":")
     print("Number | Square | Cube")
     print("-----------------------")
+
+    for i in range(1, limit + 1) :
+        num_str = str(i).ljust(6)
+        sq_str = str(square(i)).ljust(6)
+        cu_str = str(cube(i))
+        print(num_str + " | " + sq_str + " | " + cu_str)
+
+power_table(5)
+
+# ----------------------------------------------------------
