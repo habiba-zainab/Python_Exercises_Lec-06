@@ -204,4 +204,12 @@ def calculator(operation) :
         return a * b
     def divide(a, b) :
         return a / b if b != 0 else "Error: Division by Zero"
-    
+
+    if operation == "add" :
+        return add
+    elif operation == "subtract" :
+        return subtract
+    elif operation == "multiply" :
+        return multiply
+    elif operation == "divide" :
+        return divide
