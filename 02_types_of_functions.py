@@ -108,3 +108,6 @@ print("absolute(-10): ", absolute(-10))
 #    Use lambda as key
 
 print("\n--- Q4: Lambda with sorted() ---")
+
+students = [('Alice', 85), ('Bob', 92), ('Charlie', 78)]
+print("Original: ", students)
