@@ -166,3 +166,6 @@ from functools import reduce
 
 nums_list = [1, 2, 3, 4, 5]
 print("Numbers: ", nums_list)
+
+product = reduce(lambda x, y: x * y, nums_list)
+maximum_val = reduce(lambda x, y: x if x > y else y, nums_list)
