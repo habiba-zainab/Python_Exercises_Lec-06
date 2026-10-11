@@ -260,3 +260,6 @@ print("quadruple(5): ", quadruple(5))
 #    Demonstrate with add, multiply, power functions
 
 print("\n--- Q9: Higher-Order Functions ---")
+
+def apply_operation(func, x, y) :
+    return func(x, y)
