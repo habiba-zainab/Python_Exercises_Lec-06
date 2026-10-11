@@ -252,3 +252,10 @@ print("triple(10): ", triple(10))
 print("quadruple(5): ", quadruple(5))
 
 # ----------------------------------------------------------
+
+# Q9:  Higher-order functions
+#    Create function apply_operation(func, x, y) that:
+#    - Takes a function as argument
+#    - Applies it to x and y
+#    Demonstrate with add, multiply, power functions
+
