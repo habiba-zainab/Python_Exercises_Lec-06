@@ -267,3 +267,10 @@ def apply_operation(func, x, y) :
 add_op = lambda a, b: a + b
 multiply_op = lambda a, b: a * b
 power_op = lambda a, b: a ** b
+
+print("Higher-Order Function Demo: ")
+print("apply(add, 5, 3): ", apply_operation(add_op, 5, 3))
+print("apply(multiply, 5, 3): ", apply_operation(multiply_op, 5, 3))
+print("apply(power, 5, 3): ", apply_operation(power_op, 5, 3))
+
+# ----------------------------------------------------------
