@@ -263,3 +263,7 @@ print("\n--- Q9: Higher-Order Functions ---")
 
 def apply_operation(func, x, y) :
     return func(x, y)
+
+add_op = lambda a, b: a + b
+multiply_op = lambda a, b: a * b
+power_op = lambda a, b: a ** b
