@@ -234,3 +234,8 @@ print("divide(10, 5): ", div_func(10, 5))
 #    Create double, triple, quadruple using it
 
 print("\n--- Q8: Closures ---")
+
+def multiplier(factor) :
+    def multiply_by_factor(number) :
+        return number * factor
+    return multiply_by_factor
