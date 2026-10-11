@@ -232,3 +232,5 @@ print("divide(10, 5): ", div_func(10, 5))
 #    - Returns a new function
 #    - Returned function multiplies its argument by factor
 #    Create double, triple, quadruple using it
+
+print("\n--- Q8: Closures ---")
