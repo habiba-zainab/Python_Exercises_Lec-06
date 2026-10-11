@@ -243,3 +243,12 @@ def multiplier(factor) :
 double = multiplier(2)
 triple = multiplier(3)
 quadruple = multiplier(4)
+
+print("Closure Demo: ")
+print("double(5): ", double(5))
+print("double(10): ", double(10))
+print("triple(5): ", triple(5))
+print("triple(10): ", triple(10))
+print("quadruple(5): ", quadruple(5))
+
+# ----------------------------------------------------------
