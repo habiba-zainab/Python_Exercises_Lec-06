@@ -226,3 +226,9 @@ print("multiply(10, 5): ", mult_func(10, 5))
 print("divide(10, 5): ", div_func(10, 5))
 
 # ----------------------------------------------------------
+
+# Q8: Function returning function (closure)
+#    Create function multiplier(factor) that:
+#    - Returns a new function
+#    - Returned function multiplies its argument by factor
+#    Create double, triple, quadruple using it
