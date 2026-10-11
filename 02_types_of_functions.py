@@ -259,3 +259,4 @@ print("quadruple(5): ", quadruple(5))
 #    - Applies it to x and y
 #    Demonstrate with add, multiply, power functions
 
+print("\n--- Q9: Higher-Order Functions ---")
