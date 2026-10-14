@@ -13,10 +13,11 @@
 # ==========================================================
 
 # Q1: Basic default parameters
-#    Create function greet(name, greeting="Hello", punctuation="!")
+#    Create function greet(name, greeting="Hello",
+#               punctuation="!")
 #    Call with:
 #    - Only name
 #    - Name and greeting
 #    - All three parameters
 
-print()
+print("\n--- Q1: Default Parameters ---")
