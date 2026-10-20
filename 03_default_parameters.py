@@ -54,3 +54,8 @@ def add_to_list_good(val, target_list=None) :
         target_list = []
     target_list.append(val)
     return target_list
+
+print("BAD (mutable default): ")
+print("Call 1: ", add_to_list_bad(1))
+print("Call 2: ", add_to_list_bad(2))
+print("Call 3: ", add_to_list_bad(3))
