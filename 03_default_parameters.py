@@ -59,3 +59,10 @@ print("BAD (mutable default): ")
 print("Call 1: ", add_to_list_bad(1))
 print("Call 2: ", add_to_list_bad(2))
 print("Call 3: ", add_to_list_bad(3))
+
+print("\nGOOD (None default): ")
+print("Call 1: ", add_to_list_good(1))
+print("Call 2: ", add_to_list_good(2))
+print("Call 3: ", add_to_list_good(3))
+
+# ----------------------------------------------------------
