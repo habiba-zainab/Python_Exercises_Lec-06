@@ -48,3 +48,9 @@ print("\n--- Q2: Mutable Default Gotcha ---")
 def add_to_list_bad(val, target_list=[]) :
     target_list.append(val)
     return target_list
+
+def add_to_list_good(val, target_list=None) :
+    if target_list is None :
+        target_list = []
+    target_list.append(val)
+    return target_list
