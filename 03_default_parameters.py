@@ -35,3 +35,10 @@ print('\ngreet("Charlie", "Hey", "!!"): ')
 greet("Charlie", "Hey", "!!")
 
 # ----------------------------------------------------------
+
+# Q2: Default parameter gotcha (mutable defaults)
+#    Demonstrate the mutable default argument problem:
+#    - Create function with default list parameter
+#    - Call multiple times
+#    - Show unexpected behavior
+#    - Fix it using None as default
