@@ -94,3 +94,10 @@ create_profile(job="Designer", city="LA", age=30, name="Bob")
 #    Call with different combinations
 
 print("\n--- Q4: Mixed Arguments ---")
+
+def order_pizza(size, crust="regular", *toppings) :
+    print("Size: ", size, "| Crust: ", crust, end=" ")
+    if toppings :
+        print(" | Toppings: ", ", ".join(toppings))
+    else :
+        print(" | No extra toppings")
