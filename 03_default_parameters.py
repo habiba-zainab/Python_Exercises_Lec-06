@@ -21,3 +21,6 @@
 #    - All three parameters
 
 print("\n--- Q1: Default Parameters ---")
+
+def greet(name, greeting="Hello", punctuation="!") :
+    print(greeting + " " + name + punctuation)
