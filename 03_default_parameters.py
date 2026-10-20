@@ -44,3 +44,7 @@ greet("Charlie", "Hey", "!!")
 #    - Fix it using None as default
 
 print("\n--- Q2: Mutable Default Gotcha ---")
+
+def add_to_list_bad(val, target_list=[]) :
+    target_list.append(val)
+    return target_list
