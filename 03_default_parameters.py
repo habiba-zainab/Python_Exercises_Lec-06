@@ -79,3 +79,6 @@ print("\n--- Q3: Keyword Arguments ---")
 
 def create_profile(name, age, city, job) :
     print("Profile: name=" + name + ", age=" + str(age) + ", city=" + city + ", job=" + job)
+
+print("Calling with standard ordering: ")
+create_profile(name="Alice", age=25, city="NYC", job="Engineer")
