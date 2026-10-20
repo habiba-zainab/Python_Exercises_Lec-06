@@ -70,3 +70,7 @@ print("Call 3: ", add_to_list_good(3))
 # ==========================================================
 # PART B:   Position-Specific & Keyword Signatures
 # ==========================================================
+
+# Q3: Keyword arguments
+#    Create function create_profile(name, age, city, job)
+#    Call using keyword arguments in different orders
