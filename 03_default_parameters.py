@@ -24,3 +24,14 @@ print("\n--- Q1: Default Parameters ---")
 
 def greet(name, greeting="Hello", punctuation="!") :
     print(greeting + " " + name + punctuation)
+
+print('greet("Alice"): ')
+greet("Alice")
+
+print('\ngreet("Bob", "Hi"): ')
+greet("Bob", "Hi")
+
+print('\ngreet("Charlie", "Hey", "!!"): ')
+greet("Charlie", "Hey", "!!")
+
+# ----------------------------------------------------------
