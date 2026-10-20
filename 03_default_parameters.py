@@ -74,3 +74,5 @@ print("Call 3: ", add_to_list_good(3))
 # Q3: Keyword arguments
 #    Create function create_profile(name, age, city, job)
 #    Call using keyword arguments in different orders
+
+print("\n--- Q3: Keyword Arguments ---")
