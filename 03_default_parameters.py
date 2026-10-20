@@ -82,3 +82,8 @@ def create_profile(name, age, city, job) :
 
 print("Calling with standard ordering: ")
 create_profile(name="Alice", age=25, city="NYC", job="Engineer")
+
+print("\nCalling with mixed keyword ordering: ")
+create_profile(job="Designer", city="LA", age=30, name="Bob")
+
+# ----------------------------------------------------------
