@@ -101,3 +101,9 @@ def order_pizza(size, crust="regular", *toppings) :
         print(" | Toppings: ", ", ".join(toppings))
     else :
         print(" | No extra toppings")
+
+order_pizza("Large")
+order_pizza("Medium", "thin", "cheese", "mushroom")
+order_pizza("Small", "thick", "pepperoni", "olive", "onion")
+
+# ----------------------------------------------------------
