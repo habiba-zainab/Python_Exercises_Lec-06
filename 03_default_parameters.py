@@ -92,3 +92,5 @@ create_profile(job="Designer", city="LA", age=30, name="Bob")
 #    Create function 
 #           order_pizza(size, crust="regular", *toppings)
 #    Call with different combinations
+
+print("\n--- Q4: Mixed Arguments ---")
