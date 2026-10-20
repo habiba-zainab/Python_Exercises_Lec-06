@@ -42,3 +42,5 @@ greet("Charlie", "Hey", "!!")
 #    - Call multiple times
 #    - Show unexpected behavior
 #    - Fix it using None as default
+
+print("\n--- Q2: Mutable Default Gotcha ---")
