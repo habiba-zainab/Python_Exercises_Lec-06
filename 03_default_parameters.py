@@ -87,3 +87,8 @@ print("\nCalling with mixed keyword ordering: ")
 create_profile(job="Designer", city="LA", age=30, name="Bob")
 
 # ----------------------------------------------------------
+
+# Q4: Mixing positional and keyword arguments
+#    Create function 
+#           order_pizza(size, crust="regular", *toppings)
+#    Call with different combinations
