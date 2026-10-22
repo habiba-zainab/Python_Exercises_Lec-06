@@ -139,3 +139,8 @@ full_demo(1, 2, 3, 4, 5, kwonly=False, extra="value", bonus=100)
 #    - Prints how many numbers were passed
 
 print("\n--- Q6: *args ---")
+
+def sum_all(*args) :
+    total = sum(args)
+    count = len(args)
+    return total, count
