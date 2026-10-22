@@ -204,3 +204,9 @@ flexible_function(1, 2, 3, 4, 5, x=10, y=20)
 #     - Returns the result
 
 print("\n--- Q9: Function Wrapper ---")
+
+def log_function_call(func, *args, **kwargs) :
+    print("[LOG] Calling '" + func.__name__ + "' with args=" + str(args) + ", kwargs=" + str(kwargs))
+    result = func(*args, **kwargs)
+    print("[LOG] Result: ", result)
+    return result
