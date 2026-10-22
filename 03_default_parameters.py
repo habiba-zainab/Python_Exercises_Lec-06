@@ -158,3 +158,9 @@ print("sum_all(): ", sum_all()[0], "(" + str(sum_all()[1]) + " numbers)")
 #    - Prints each key-value pair formatted
 
 print("\n--- Q7: **kwargs ---")
+
+def print_info(**kwargs) :
+    print("─" * 20)
+    for key, val in kwargs.items() :
+        print(key + ":", val)
+    print("─" * 20)
