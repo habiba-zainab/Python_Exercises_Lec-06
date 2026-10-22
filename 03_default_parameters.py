@@ -175,3 +175,19 @@ print_info(product="Laptop", price=999, brand="Dell")
 #    Show how all parameter types work together
 
 print("\n--- Q8: *args + **kwargs ---")
+
+def flexible_function(a, b, *args, **kwargs) :
+    print("Required: a=" + str(a) + ", b=" + str(b))
+    print("Extra positional (args): ", args)
+    print("Extra keyword (kwargs): ", kwargs)
+    print("\nAll values: ")
+    print("a =", a)
+    print("b =", b)
+    for arg in args :
+        print("arg =", arg)
+    for key, val in kwargs.items() :
+        print(key + " =", val)
+
+flexible_function(1, 2, 3, 4, 5, x=10, y=20)
+
+# ----------------------------------------------------------
