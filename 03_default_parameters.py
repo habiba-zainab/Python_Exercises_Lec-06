@@ -131,3 +131,9 @@ full_demo(1, 2, 3, 4, 5, kwonly=False, extra="value", bonus=100)
 # ==========================================================
 # PART C:   Dynamics Unbound Parameters(*args & kwargs)
 # ==========================================================
+
+# Q6: *args - variable positional arguments
+#    Create function sum_all(*args) that:
+#    - Accepts any number of arguments
+#    - Returns their sum
+#    - Prints how many numbers were passed
