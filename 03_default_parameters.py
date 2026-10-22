@@ -210,3 +210,9 @@ def log_function_call(func, *args, **kwargs) :
     result = func(*args, **kwargs)
     print("[LOG] Result: ", result)
     return result
+
+def add_nums(x, y) :
+    return x + y
+
+def greet_user(name, greeting="Hello") :
+    return greeting + " " + name + "!"
