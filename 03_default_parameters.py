@@ -151,3 +151,8 @@ print("sum_all(5): ", sum_all(5)[0], "(" + str(sum_all(5)[1]) + " number)")
 print("sum_all(): ", sum_all()[0], "(" + str(sum_all()[1]) + " numbers)")
 
 # ----------------------------------------------------------
+
+# Q7: **kwargs - variable keyword arguments
+#    Create function print_info(**kwargs) that:
+#    - Accepts any keyword arguments
+#    - Prints each key-value pair formatted
