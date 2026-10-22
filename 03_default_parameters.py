@@ -169,3 +169,7 @@ print_info(name="Alice", age=25, city="NYC")
 print_info(product="Laptop", price=999, brand="Dell")
 
 # ----------------------------------------------------------
+
+# Q8: Combining *args and **kwargs
+#    Create function flexible_function(a, b, *args, **kwargs)
+#    Show how all parameter types work together
