@@ -127,3 +127,7 @@ def full_demo(pos1, pos2, /, normal, *args, kwonly=True, **kwargs) :
 full_demo(1, 2, 3, 4, 5, kwonly=False, extra="value", bonus=100)
 
 # ----------------------------------------------------------
+
+# ==========================================================
+# PART C:   Dynamics Unbound Parameters(*args & kwargs)
+# ==========================================================
