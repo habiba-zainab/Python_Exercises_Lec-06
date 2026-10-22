@@ -164,3 +164,8 @@ def print_info(**kwargs) :
     for key, val in kwargs.items() :
         print(key + ":", val)
     print("─" * 20)
+
+print_info(name="Alice", age=25, city="NYC")
+print_info(product="Laptop", price=999, brand="Dell")
+
+# ----------------------------------------------------------
