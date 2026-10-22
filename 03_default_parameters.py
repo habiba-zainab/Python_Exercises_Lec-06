@@ -116,3 +116,14 @@ order_pizza("Small", "thick", "pepperoni", "olive", "onion")
 #    Demonstrate each type
 
 print("\n--- Q5: All Parameter Types ---")
+
+def full_demo(pos1, pos2, /, normal, *args, kwonly=True, **kwargs) :
+    print("Positional: ", pos1, ",", pos2)
+    print("Normal: ", normal)
+    print("*args: ", args)
+    print("Keyword-only: ", kwonly)
+    print("**kwargs: ", kwargs)
+
+full_demo(1, 2, 3, 4, 5, kwonly=False, extra="value", bonus=100)
+
+# ----------------------------------------------------------
