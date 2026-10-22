@@ -195,3 +195,10 @@ flexible_function(1, 2, 3, 4, 5, x=10, y=20)
 # ==========================================================
 # PART D:   Programmatic Wrapper
 # ==========================================================
+
+# Q9: Wrapper function with *args, **kwargs
+#     Create function log_function_call(func, *args, **kwargs) that:
+#     - Logs function name and arguments
+#     - Calls the function
+#     - Logs the result
+#     - Returns the result
