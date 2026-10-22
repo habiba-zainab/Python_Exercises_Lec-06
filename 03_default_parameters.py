@@ -114,3 +114,5 @@ order_pizza("Small", "thick", "pepperoni", "olive", "onion")
 #                      *args, kwonly=True, **kwargs)
 #    (Simplified version for beginners)
 #    Demonstrate each type
+
+print("\n--- Q5: All Parameter Types ---")
