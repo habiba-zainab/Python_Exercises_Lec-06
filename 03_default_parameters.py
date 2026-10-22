@@ -216,3 +216,9 @@ def add_nums(x, y) :
 
 def greet_user(name, greeting="Hello") :
     return greeting + " " + name + "!"
+
+log_function_call(add_nums, 5, 3)
+print()
+log_function_call(greet_user, "Alice", greeting="Hi")
+
+# ----------------------------------------------------------
