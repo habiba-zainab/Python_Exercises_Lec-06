@@ -144,3 +144,10 @@ def sum_all(*args) :
     total = sum(args)
     count = len(args)
     return total, count
+
+print("sum_all(1, 2, 3): ", sum_all(1, 2, 3)[0], "(" + str(sum_all(1, 2, 3)[1]) + " numbers)")
+print("sum_all(10, 20, 30, 40): ", sum_all(10, 20, 30, 40)[0], "(" + str(sum_all(10, 20, 30, 40)[1]) + " numbers)")
+print("sum_all(5): ", sum_all(5)[0], "(" + str(sum_all(5)[1]) + " number)")
+print("sum_all(): ", sum_all()[0], "(" + str(sum_all()[1]) + " numbers)")
+
+# ----------------------------------------------------------
