@@ -107,3 +107,10 @@ order_pizza("Medium", "thin", "cheese", "mushroom")
 order_pizza("Small", "thick", "pepperoni", "olive", "onion")
 
 # ----------------------------------------------------------
+
+# Q5: Function with all parameter types
+#    Create function that uses ALL parameter types:
+#    def full_demo(pos1, pos2, /, normal, 
+#                      *args, kwonly=True, **kwargs)
+#    (Simplified version for beginners)
+#    Demonstrate each type
