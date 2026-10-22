@@ -137,3 +137,5 @@ full_demo(1, 2, 3, 4, 5, kwonly=False, extra="value", bonus=100)
 #    - Accepts any number of arguments
 #    - Returns their sum
 #    - Prints how many numbers were passed
+
+print("\n--- Q6: *args ---")
