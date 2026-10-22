@@ -202,3 +202,5 @@ flexible_function(1, 2, 3, 4, 5, x=10, y=20)
 #     - Calls the function
 #     - Logs the result
 #     - Returns the result
+
+print("\n--- Q9: Function Wrapper ---")
