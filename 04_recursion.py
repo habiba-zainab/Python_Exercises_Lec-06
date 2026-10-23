@@ -1,10 +1,10 @@
 """
 
-==============================================================
+============================================================
    LECTURE 06 - SET 04 :   RECURSIONS
-   Topics : Recursion - Basics, Classic Problems, Advanced
+   Topics : Recursion - Basics, Classic Problems
    Total Questions :  
-==============================================================
+============================================================
 
 """
 
@@ -92,3 +92,7 @@ print('Result: "' + reverse_string("Hello") + '"')
 # ==========================================================
 # PART B:   Mathematical Recursion
 # ==========================================================
+
+# Q4: Palindrome check using recursion
+#    Create function is_palindrome(s)
+#    Check by comparing first and last characters
