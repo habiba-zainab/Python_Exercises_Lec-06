@@ -53,3 +53,7 @@ def workout_summary(**details) :
 
 print("Total burned: ", total_calories(300, 450, 200, 500), "cal")
 workout_summary(type="Running", duration="30 min", calories=350)
+
+# ----------------------------------------------------------
+#    STEP 03:     Diet & Meal Planner
+# ----------------------------------------------------------
