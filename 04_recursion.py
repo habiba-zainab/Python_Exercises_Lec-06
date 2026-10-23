@@ -96,3 +96,5 @@ print('Result: "' + reverse_string("Hello") + '"')
 # Q4: Palindrome check using recursion
 #    Create function is_palindrome(s)
 #    Check by comparing first and last characters
+
+print("\n--- Q4: Palindrome Check ---")
