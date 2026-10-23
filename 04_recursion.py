@@ -105,3 +105,8 @@ def is_palindrome(s) :
     if s[0] != s[-1] :
         return False
     return is_palindrome(s[1:-1])
+
+print('is_palindrome("radar"): ', is_palindrome("radar"))
+print('is_palindrome("hello"): ', is_palindrome("hello"))
+print('is_palindrome("madam"): ', is_palindrome("madam"))
+print('is_palindrome("racecar"): ', is_palindrome("racecar"))
