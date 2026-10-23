@@ -42,3 +42,5 @@ print("   =", factorial(5))
 #    Create function fibonacci(n)
 #    Print first 10 Fibonacci numbers
 #    Show recursive calls for small number
+
+print("\n--- Q2: Fibonacci ---")
