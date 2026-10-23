@@ -3,7 +3,7 @@
 ============================================================
    LECTURE 06 - SET 04 :   RECURSIONS
    Topics : Recursion - Basics, Classic Problems
-   Total Questions :  
+   Total Questions :  06
 ============================================================
 
 """
