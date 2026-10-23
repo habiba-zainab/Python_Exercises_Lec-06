@@ -78,3 +78,5 @@ for m in low_cal :
 # Sort meals by calories using lambda
 sorted_meals = sorted(meals, key=lambda m: m["cal"])
 print("Sorted by calories: ")
+for m in sorted_meals :
+    print("  " + m["name"] + " -", m["cal"], "cal")
