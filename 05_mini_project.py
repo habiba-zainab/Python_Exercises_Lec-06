@@ -16,3 +16,8 @@
 # ----------------------------------------------------------
 
 print("\n---  Basic Health Calculator ---")
+
+def calculate_bmi(weight, height) :
+    """Calculate BMI from weight(kg) and height(m)"""
+    bmi = weight / (height * height)
+    return round(bmi, 1)
