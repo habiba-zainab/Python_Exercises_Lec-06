@@ -134,3 +134,12 @@ def recursive_sum(lst) :
 print("recursive_sum([1, 2, 3, 4, 5]) = ", recursive_sum([1, 2, 3, 4, 5]))
 print("recursive_sum([10, 20, 30]) = ", recursive_sum([10, 20, 30]))
 print("recursive_sum([]) = ", recursive_sum([]))
+
+print("\nSteps for [1, 2, 3, 4, 5]: ")
+print("1 + recursive_sum([2, 3, 4, 5])")
+print("1 + 2 + recursive_sum([3, 4, 5])")
+print("1 + 2 + 3 + recursive_sum([4, 5])")
+print("1 + 2 + 3 + 4 + recursive_sum([5])")
+print("1 + 2 + 3 + 4 + 5 = 15")
+
+# ----------------------------------------------------------
