@@ -41,3 +41,6 @@ print("\n--- Workout Statistics ---")
 def total_calories(*workouts) :
     """Sum all workout calories using *args"""
     total = 0
+    for cal in workouts :
+        total = total + cal
+    return total
