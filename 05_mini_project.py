@@ -57,3 +57,5 @@ workout_summary(type="Running", duration="30 min", calories=350)
 # ----------------------------------------------------------
 #    STEP 03:     Diet & Meal Planner
 # ----------------------------------------------------------
+
+print("\n--- Diet & Meal Planner ---")
