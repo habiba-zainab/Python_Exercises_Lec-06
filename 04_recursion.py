@@ -55,3 +55,11 @@ def fibonacci(n) :
 print("fibonacci(0) = ", fibonacci(0))
 print("fibonacci(1) = ", fibonacci(1))
 print("fibonacci(5) = ", fibonacci(5))
+
+print("\nFirst 10 Fibonacci numbers: ")
+fib_list = []
+for i in range(10) :
+    fib_list.append(str(fibonacci(i)))
+print(", ".join(fib_list))
+
+# ----------------------------------------------------------
