@@ -71,3 +71,6 @@ meals = [
 # Filter low-calorie meals (under 350) using lambda
 low_cal = list(filter(lambda m: m["cal"] < 350, meals))
 print("Low-calorie meals: ")
+for m in low_cal :
+    print("  " + m["name"] + " -", m["cal"], "cal")
+    
