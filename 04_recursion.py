@@ -123,3 +123,10 @@ print("'d' -> single char -> True")
 #    Sum all elements without using loop
 
 print("\n--- Q5: Recursive Sum ---")
+
+def recursive_sum(lst) :
+    if len(lst) == 0 :
+        return 0
+    if len(lst) == 1 :
+        return lst[0]
+    return lst[0] + recursive_sum(lst[1:])
