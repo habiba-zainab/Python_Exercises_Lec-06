@@ -48,3 +48,5 @@ def total_calories(*workouts) :
 def workout_summary(**details) :
     """Display workout info using **kwargs"""
     print("  Workout Summary: ")
+    for key, value in details.items() :
+        print("    " + str(key) + ":", value)
