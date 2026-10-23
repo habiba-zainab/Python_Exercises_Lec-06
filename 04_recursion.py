@@ -130,3 +130,7 @@ def recursive_sum(lst) :
     if len(lst) == 1 :
         return lst[0]
     return lst[0] + recursive_sum(lst[1:])
+
+print("recursive_sum([1, 2, 3, 4, 5]) = ", recursive_sum([1, 2, 3, 4, 5]))
+print("recursive_sum([10, 20, 30]) = ", recursive_sum([10, 20, 30]))
+print("recursive_sum([]) = ", recursive_sum([]))
