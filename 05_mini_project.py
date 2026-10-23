@@ -98,3 +98,6 @@ def count_streak(completed, index=0) :
     if index == len(completed) or not completed[index] :
         return 0
     return 1 + count_streak(completed, index + 1)
+
+week = [300, 450, 0, 200, 500, 350, 400]
+streak = [True, True, True, False, True, True, False]
