@@ -86,3 +86,10 @@ for m in sorted_meals :
 # ----------------------------------------------------------
 
 print("\n--- Progress Tracker ---")
+
+def weekly_total(days, index=0) :
+    """Recursively sum weekly calories burned"""
+    if index == len(days) :
+        return 0
+    return days[index] + weekly_total(days, index + 1)
+
