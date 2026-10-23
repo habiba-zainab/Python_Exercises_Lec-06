@@ -16,3 +16,5 @@
 #    Create function factorial(n)
 #    Show step-by-step calculation
 #    Handle base case (0! = 1)
+
+print("\n--- Q1: Factorial ---")
