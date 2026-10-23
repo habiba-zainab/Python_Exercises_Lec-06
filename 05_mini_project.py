@@ -31,3 +31,7 @@ bmi = calculate_bmi(70, 1.75)
 print("BMI: ", bmi)
 print("Calories (moderate): ", daily_calories(70))
 print("Calories (high): ", daily_calories(70, "high"))
+
+# ----------------------------------------------------------
+#    STEP 02:     Workout Statistics
+# ----------------------------------------------------------
