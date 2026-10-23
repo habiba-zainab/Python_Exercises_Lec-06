@@ -152,3 +152,4 @@ print("1 + 2 + 3 + 4 + 5 = 15")
 #    Create function flatten(nested_list)
 #    Handle any depth of nesting
 
+print("\n--- Q6: Flatten List ---")
