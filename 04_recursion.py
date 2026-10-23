@@ -117,3 +117,7 @@ print("'a' == 'a' -> check 'd'")
 print("'d' -> single char -> True")
 
 # ----------------------------------------------------------
+
+# Q5: Sum of list using recursion
+#    Create function recursive_sum(lst)
+#    Sum all elements without using loop
