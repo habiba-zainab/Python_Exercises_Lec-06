@@ -153,3 +153,13 @@ print("1 + 2 + 3 + 4 + 5 = 15")
 #    Handle any depth of nesting
 
 print("\n--- Q6: Flatten List ---")
+
+def flatten(nested_list) :
+    result = []
+    for item in nested_list :
+        if type(item) == list :
+            result.extend(flatten(item))
+        else :
+            result.append(item)
+    return result
+
