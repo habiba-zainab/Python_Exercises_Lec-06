@@ -21,3 +21,8 @@ def calculate_bmi(weight, height) :
     """Calculate BMI from weight(kg) and height(m)"""
     bmi = weight / (height * height)
     return round(bmi, 1)
+
+def daily_calories(weight, activity="moderate") :
+    """Estimate daily calories (default: moderate)"""
+    rates = {"low": 25, "moderate": 30, "high": 35}
+    return weight * rates.get(activity, 30)
