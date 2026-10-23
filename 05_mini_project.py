@@ -35,3 +35,5 @@ print("Calories (high): ", daily_calories(70, "high"))
 # ----------------------------------------------------------
 #    STEP 02:     Workout Statistics
 # ----------------------------------------------------------
+
+print("\n--- Workout Statistics ---")
