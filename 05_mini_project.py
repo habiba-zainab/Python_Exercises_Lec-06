@@ -73,4 +73,8 @@ low_cal = list(filter(lambda m: m["cal"] < 350, meals))
 print("Low-calorie meals: ")
 for m in low_cal :
     print("  " + m["name"] + " -", m["cal"], "cal")
-    
+
+
+# Sort meals by calories using lambda
+sorted_meals = sorted(meals, key=lambda m: m["cal"])
+print("Sorted by calories: ")
