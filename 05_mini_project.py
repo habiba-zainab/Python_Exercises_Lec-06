@@ -26,3 +26,8 @@ def daily_calories(weight, activity="moderate") :
     """Estimate daily calories (default: moderate)"""
     rates = {"low": 25, "moderate": 30, "high": 35}
     return weight * rates.get(activity, 30)
+
+bmi = calculate_bmi(70, 1.75)
+print("BMI: ", bmi)
+print("Calories (moderate): ", daily_calories(70))
+print("Calories (high): ", daily_calories(70, "high"))
