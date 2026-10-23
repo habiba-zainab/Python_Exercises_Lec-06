@@ -37,3 +37,8 @@ print("   = 5 x 4 x 3 x 2 x 1")
 print("   =", factorial(5))
 
 # ----------------------------------------------------------
+
+# Q2: Fibonacci using recursion
+#    Create function fibonacci(n)
+#    Print first 10 Fibonacci numbers
+#    Show recursive calls for small number
