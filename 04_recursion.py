@@ -74,3 +74,7 @@ def reverse_string(s) :
     if len(s) <= 1 :
         return s
     return s[-1] + reverse_string(s[:-1])
+
+print('reverse_string("Hello") = ', '"' + reverse_string("Hello") + '"')
+print('reverse_string("Python") = ', '"' + reverse_string("Python") + '"')
+print('reverse_string("A") = ', '"' + reverse_string("A") + '"')
