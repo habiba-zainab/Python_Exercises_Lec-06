@@ -44,3 +44,10 @@ print("   =", factorial(5))
 #    Show recursive calls for small number
 
 print("\n--- Q2: Fibonacci ---")
+
+def fibonacci(n) :
+    if n == 0 :
+        return 0
+    if n == 1 :
+        return 1
+    return fibonacci(n - 1) + fibonacci(n - 2)
