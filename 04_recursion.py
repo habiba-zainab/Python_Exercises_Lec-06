@@ -110,3 +110,10 @@ print('is_palindrome("radar"): ', is_palindrome("radar"))
 print('is_palindrome("hello"): ', is_palindrome("hello"))
 print('is_palindrome("madam"): ', is_palindrome("madam"))
 print('is_palindrome("racecar"): ', is_palindrome("racecar"))
+
+print('\nSteps for is_palindrome("radar"): ')
+print("'r' == 'r' -> check 'ada'")
+print("'a' == 'a' -> check 'd'")
+print("'d' -> single char -> True")
+
+# ----------------------------------------------------------
