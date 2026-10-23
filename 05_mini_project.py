@@ -104,3 +104,5 @@ streak = [True, True, True, False, True, True, False]
 
 print("Weekly total: ", weekly_total(week), "cal")
 print("Current streak: ", count_streak(streak), "days")
+
+# ----------------------------------------------------------
