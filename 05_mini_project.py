@@ -67,3 +67,7 @@ meals = [
     {"name": "Soup", "cal": 150},
     {"name": "Steak", "cal": 500}
 ]
+
+# Filter low-calorie meals (under 350) using lambda
+low_cal = list(filter(lambda m: m["cal"] < 350, meals))
+print("Low-calorie meals: ")
