@@ -37,3 +37,7 @@ print("Calories (high): ", daily_calories(70, "high"))
 # ----------------------------------------------------------
 
 print("\n--- Workout Statistics ---")
+
+def total_calories(*workouts) :
+    """Sum all workout calories using *args"""
+    total = 0
