@@ -50,3 +50,6 @@ def workout_summary(**details) :
     print("  Workout Summary: ")
     for key, value in details.items() :
         print("    " + str(key) + ":", value)
+
+print("Total burned: ", total_calories(300, 450, 200, 500), "cal")
+workout_summary(type="Running", duration="30 min", calories=350)
