@@ -63,3 +63,7 @@ for i in range(10) :
 print(", ".join(fib_list))
 
 # ----------------------------------------------------------
+
+# Q3: Reverse string using recursion
+#    Create function reverse_string(s)
+#    Show step-by-step reversal
