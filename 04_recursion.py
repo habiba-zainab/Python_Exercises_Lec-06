@@ -51,3 +51,7 @@ def fibonacci(n) :
     if n == 1 :
         return 1
     return fibonacci(n - 1) + fibonacci(n - 2)
+
+print("fibonacci(0) = ", fibonacci(0))
+print("fibonacci(1) = ", fibonacci(1))
+print("fibonacci(5) = ", fibonacci(5))
