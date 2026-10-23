@@ -147,3 +147,8 @@ print("1 + 2 + 3 + 4 + 5 = 15")
 # ==========================================================
 # PART C:   Data Recursion
 # ==========================================================
+
+# Q6: Flatten nested list using recursion
+#    Create function flatten(nested_list)
+#    Handle any depth of nesting
+
