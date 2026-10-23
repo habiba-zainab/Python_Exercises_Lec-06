@@ -93,3 +93,8 @@ def weekly_total(days, index=0) :
         return 0
     return days[index] + weekly_total(days, index + 1)
 
+def count_streak(completed, index=0) :
+    """Recursively count consecutive workout days"""
+    if index == len(completed) or not completed[index] :
+        return 0
+    return 1 + count_streak(completed, index + 1)
