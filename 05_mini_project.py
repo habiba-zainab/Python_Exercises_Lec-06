@@ -59,3 +59,11 @@ workout_summary(type="Running", duration="30 min", calories=350)
 # ----------------------------------------------------------
 
 print("\n--- Diet & Meal Planner ---")
+
+meals = [
+    {"name": "Salad", "cal": 200},
+    {"name": "Chicken", "cal": 400},
+    {"name": "Rice", "cal": 300},
+    {"name": "Soup", "cal": 150},
+    {"name": "Steak", "cal": 500}
+]
