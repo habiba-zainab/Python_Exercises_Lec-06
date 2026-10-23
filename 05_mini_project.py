@@ -101,3 +101,6 @@ def count_streak(completed, index=0) :
 
 week = [300, 450, 0, 200, 500, 350, 400]
 streak = [True, True, True, False, True, True, False]
+
+print("Weekly total: ", weekly_total(week), "cal")
+print("Current streak: ", count_streak(streak), "days")
