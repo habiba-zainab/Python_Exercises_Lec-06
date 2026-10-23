@@ -165,3 +165,11 @@ def flatten(nested_list) :
 
 test1 = [1, [2, 3], [4, [5, 6]], 7, [8, [9, [10]]]]
 test2 = [[1, 2], [3, [4, 5]], 6]
+
+print("Input: ", test1)
+print("Output: ", flatten(test1))
+print()
+print("Input: ", test2)
+print("Output: ", flatten(test2))
+
+# ----------------------------------------------------------
