@@ -78,3 +78,13 @@ def reverse_string(s) :
 print('reverse_string("Hello") = ', '"' + reverse_string("Hello") + '"')
 print('reverse_string("Python") = ', '"' + reverse_string("Python") + '"')
 print('reverse_string("A") = ', '"' + reverse_string("A") + '"')
+
+print('\nSteps for reverse_string("Hello"): ')
+print('"Hello" -> "o" + reverse("Hell")')
+print('"Hell"  -> "l" + reverse("Hel")')
+print('"Hel"   -> "l" + reverse("He")')
+print('"He"    -> "e" + reverse("H")')
+print('"H"     -> "H" (base case)')
+print('Result: "' + reverse_string("Hello") + '"')
+
+# ----------------------------------------------------------
