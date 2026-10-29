@@ -83,3 +83,5 @@ By completing this lecture, I have learned to:\
 * ✅ Build modular, real-world applications using function-based design
 
 ---
+
+## 💡 Practice Approach
