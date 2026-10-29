@@ -12,3 +12,5 @@ A personal Python learning repository documenting my progress through **Lecture 
 This repository contains my practice work for Lecture 06, focusing on defining and using functions, understanding different function types, working with parameters, and solving problems through recursion.
 
 ---
+
+## 📖 Topics Covered
