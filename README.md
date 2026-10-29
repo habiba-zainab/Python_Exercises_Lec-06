@@ -35,3 +35,11 @@ This repository contains my practice work for Lecture 06, focusing on defining a
 * Default parameter values
 * Variable-length arguments (`*args`, `**kwargs`)
 * Argument unpacking
+
+### ✅ Recursion
+* Base case and recursive case
+* Call stack and execution flow
+* Factorial and Fibonacci using recursion
+* Recursive vs iterative approaches
+
+---
