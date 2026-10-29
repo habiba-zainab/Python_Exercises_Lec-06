@@ -87,3 +87,12 @@ By completing this lecture, I have learned to:\
 ## 💡 Practice Approach
 
 My learning methodology focuses on:
+
+1. **Understanding the core concept** before coding
+2. **Attempting problems independently**
+3. **Running & testing programs** in the terminal
+4. **Experimenting by modifying values and inputs**
+5. **Debugging errors** to understand root causes
+6. **Documenting learnings and observations**
+
+---
