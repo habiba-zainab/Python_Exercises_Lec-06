@@ -108,3 +108,9 @@ An interactive program that tracks workouts, calories, and health metrics using 
 * Calculate BMI and health statistics
 * Track weekly progress and goals
 * Generate personalized health summaries
+
+#### 💡 Concepts Applied:
+* Modular Function Design & Default Parameters
+* Recursive Calculations & Data Processing
+
+---
