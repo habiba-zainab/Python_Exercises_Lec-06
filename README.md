@@ -85,3 +85,5 @@ By completing this lecture, I have learned to:\
 ---
 
 ## 💡 Practice Approach
+
+My learning methodology focuses on:
