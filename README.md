@@ -21,3 +21,10 @@ This repository contains my practice work for Lecture 06, focusing on defining a
 * Return statements and return values
 * Function scope (local vs global variables)
 * Docstrings and function documentation
+
+### ✅ Types of Functions
+* Built-in functions (`print()`, `len()`, `type()`, `input()`)
+* User-defined functions
+* Lambda (anonymous) functions
+* Higher-order functions
+* Functions as first-class objects
