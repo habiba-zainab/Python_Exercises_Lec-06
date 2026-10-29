@@ -114,3 +114,17 @@ An interactive program that tracks workouts, calories, and health metrics using 
 * Recursive Calculations & Data Processing
 
 ---
+
+### Current Lecture Status
+
+- [x] **Lecture 01** — Python Fundamentals ✅ COMPLETED
+- [x] **Lecture 02** — Strings & Conditionals ✅ COMPLETED
+- [x] **Lecture 03** — Lists & Tuples ✅ COMPLETED
+- [x] **Lecture 04** — Dictionaries & Sets ✅ COMPLETED
+- [x] **Lecture 05** — Loops in Python ✅ COMPLETED
+- [x] **Lecture 06** — Functions & Recursions ✅ COMPLETED
+- [ ] **Lecture 07** — Happening soon
+- [ ] **Lecture 08** — Happening soon
+- [ ] **Lecture 09** — Happening soon
+
+---
