@@ -100,3 +100,5 @@ My learning methodology focuses on:
 ## 🚀 Mini Project
 
 ### 💪 Fitness & Health Tracker (`05_mini_project.py`)
+
+An interactive program that tracks workouts, calories, and health metrics using modular function-based design.
