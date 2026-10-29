@@ -98,3 +98,5 @@ My learning methodology focuses on:
 ---
 
 ## 🚀 Mini Project
+
+### 💪 Fitness & Health Tracker (`05_mini_project.py`)
