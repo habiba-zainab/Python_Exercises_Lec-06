@@ -55,3 +55,17 @@ This repository contains my practice work for Lecture 06, focusing on defining a
 | [`05_mini_project.py`](05_mini_project.py) | Fitness & Health Tracker | Mini Project |
 
 ---
+
+## 📂 Repository Structure
+
+```text
+lecture-06/
+│
+├── 📝 01_functions_basics.py          # Function Definition, Calling & Return Values
+├── 📝 02_types_of_functions.py        # Built-in, User-defined & Lambda Functions
+├── 📝 03_default_parameters.py        # Arguments, *args, **kwargs & Defaults
+├── 📝 04_recursion.py                 # Recursive Functions & Problem Solving
+└── 🚀 05_mini_project.py              # 💪 Fitness & Health Tracker
+```
+
+---
