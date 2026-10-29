@@ -71,3 +71,5 @@ lecture-06/
 ---
 
 ## 🎯 Learning Objectives
+
+By completing this lecture, I have learned to:\
