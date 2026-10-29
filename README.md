@@ -28,3 +28,10 @@ This repository contains my practice work for Lecture 06, focusing on defining a
 * Lambda (anonymous) functions
 * Higher-order functions
 * Functions as first-class objects
+
+### ✅ Default Parameters
+* Positional arguments
+* Keyword arguments
+* Default parameter values
+* Variable-length arguments (`*args`, `**kwargs`)
+* Argument unpacking
