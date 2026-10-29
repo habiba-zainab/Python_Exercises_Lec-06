@@ -73,3 +73,13 @@ lecture-06/
 ## 🎯 Learning Objectives
 
 By completing this lecture, I have learned to:\
+
+* ✅ Define and call reusable functions with proper structure
+* ✅ Understand and apply different types of functions
+* ✅ Use positional, keyword, and default arguments effectively
+* ✅ Handle flexible inputs with `*args` and `**kwargs`
+* ✅ Solve problems using recursive thinking and base cases
+* ✅ Manage variable scope within and outside functions
+* ✅ Build modular, real-world applications using function-based design
+
+---
