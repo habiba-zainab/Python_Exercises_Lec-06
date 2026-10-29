@@ -43,3 +43,15 @@ This repository contains my practice work for Lecture 06, focusing on defining a
 * Recursive vs iterative approaches
 
 ---
+
+## 📂 Practiced Files
+
+| File | Concepts Practiced | Questions |
+| ---- | ------------------ | --------- |
+| [`01_functions_basics.py`](./01_functions_basics.py) | Function Basics - Defining, Calling, Parameters, Return Values | 08 |
+| [`02_types_of_functions.py`](./02_types_of_functions.py) | Types of Functions - Built-in, User-defined, Lambda, Nested | 09 |
+| [`03_default_parameters.py`](./03_default_parameters.py) | Default Parameters, Keyword Args, *args, **kwargs | 09 |
+| [`04_recursion.py`](04_recursion.py) | Recursion - Basics, Classic Problems | 06 |
+| [`05_mini_project.py`](05_mini_project.py) | Fitness & Health Tracker | Mini Project |
+
+---
