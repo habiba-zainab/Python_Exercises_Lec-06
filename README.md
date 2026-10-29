@@ -14,3 +14,10 @@ This repository contains my practice work for Lecture 06, focusing on defining a
 ---
 
 ## 📖 Topics Covered
+
+### ✅ Function Basics
+* Defining and calling functions
+* Function syntax and structure
+* Return statements and return values
+* Function scope (local vs global variables)
+* Docstrings and function documentation
