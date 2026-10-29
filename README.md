@@ -102,3 +102,9 @@ My learning methodology focuses on:
 ### 💪 Fitness & Health Tracker (`05_mini_project.py`)
 
 An interactive program that tracks workouts, calories, and health metrics using modular function-based design.
+
+#### Key Features:
+* Log daily workouts and calorie intake
+* Calculate BMI and health statistics
+* Track weekly progress and goals
+* Generate personalized health summaries
