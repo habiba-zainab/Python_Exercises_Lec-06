@@ -69,3 +69,5 @@ lecture-06/
 ```
 
 ---
+
+## 🎯 Learning Objectives
