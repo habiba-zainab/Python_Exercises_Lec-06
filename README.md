@@ -103,7 +103,7 @@ My learning methodology focuses on:
 
 An interactive program that tracks workouts, calories, and health metrics using modular function-based design.
 
-#### Key Features:
+#### ✨ Key Features:
 * Log daily workouts and calorie intake
 * Calculate BMI and health statistics
 * Track weekly progress and goals
